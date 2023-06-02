@@ -1,0 +1,1 @@
+A small C program comparing serial and parallel OpenMP performance for multithreading in a Monte-Carlo (MC) simulation of argon.  Due to the nature of the MC steps while generating radial distribution functions, it is essentially trivially parallelizable and shows large speed increases in the parallel version.
